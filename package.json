@@ -534,5 +534,11 @@
   "prettier": {
     "singleQuote": true,
     "bracketSpacing": false
+  },
+  "overrides": {
+    "minimist": ">=0.2.4"
+  },
+  "resolutions": {
+    "minimist": ">=0.2.4"
   }
 }
